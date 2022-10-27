@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=勝厚&fontSize=76)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=未完禮讚&fontSize=76)
 
 
 
@@ -10,4 +10,6 @@
 ### about me
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whtmdgn1409&show_icons=true&theme=tokyonight)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whtmdgn1409&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whtmdgn1409&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jch1409)](https://solved.ac/jch1409)
