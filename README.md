@@ -1,3 +1,3 @@
 ### Hi there 👋
 ### Skills
-<a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target="_blank"><img src="https://img.shields.io/badge/HTML5-배경색?style=for-the-badge&logo=E34F26&logoColor=blue"/></a>
+<a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target="_blank"><img src="https://img.shields.io/badge/HTML5-배경색?style=for-the-badge&logo=#E34F26&logoColor=blue"/></a>
