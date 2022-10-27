@@ -12,4 +12,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whtmdgn1409&show_icons=true&theme=tokyonight)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whtmdgn1409&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jch1409)](https://solved.ac/jch1409)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jch1409)](https://solved.ac/jch1409)
