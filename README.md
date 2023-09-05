@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChoSeunghu&fontSize=76)
 
+<img width="80%" src="https://github.com/whtmdgn1409/whtmdgn1409/assets/37996446/463523f0-61ba-496e-9927-a0f07400c45b"/>
 
 
 
