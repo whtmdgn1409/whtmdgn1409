@@ -13,13 +13,4 @@
   <br/><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <br/><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </details>
-  
-### about me
-<details>
-  <summary>
-    Github
-  </summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whtmdgn1409&show_icons=true&theme=tokyonight)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whtmdgn1409&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</br>
-</details>
-</i>
+
